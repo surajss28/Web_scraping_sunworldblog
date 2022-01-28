@@ -8,5 +8,5 @@ Finally I have convert this dataframe to csv and store it.
 ### Essential Packages 
 pip install beautifulSoup <br/>  
 pip install requests <br/> 
-pip install pandas <br/>
+pip install pandas <br/>  
 
