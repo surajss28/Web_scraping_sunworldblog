@@ -5,3 +5,8 @@ I have collect all the post title along with its post category and author using 
 Then I created a dataframe of all these data using padas library.
 Finally I have convert this dataframe to csv and store it.
 
+### Essential Packages 
+pip install beautifulSoup
+pip install requests
+pip install pandas
+
